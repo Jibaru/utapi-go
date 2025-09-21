@@ -32,7 +32,7 @@ This package should do nothing more than the [UTApi class in Uploadthing](https:
 2. Clone this repo and start a branch for your feature.
 
     ```bash
-    git clone https://github.com/jesses-code-adventures/utapi-go;
+    git clone https://github.com/Jibaru/utapi-go;
     cd utapi-go;
     git checkout -b my_feature;
     ```

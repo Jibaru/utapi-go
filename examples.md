@@ -9,7 +9,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/jesses-code-adventures/utapi-go"
+	"github.com/Jibaru/utapi-go"
 	"os"
 )
 

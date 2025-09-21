@@ -25,7 +25,7 @@ After adding your import statement as below, run go mod tidy.
 package main
 
 import (
-    "github.com/jesses-code-adventures/utapi-go"
+    "github.com/Jibaru/utapi-go"
     "os"
     "fmt"
 )
